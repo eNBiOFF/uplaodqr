@@ -1,0 +1,8 @@
+{
+  "name": "lan-share",
+  "version": "1.0.0",
+  "description": "Передача файла между устройствами в одной сети Wi-Fi по короткой ссылке",
+  "type": "module",
+  "bin": { "lan-share": "share.js" },
+  "engines": { "node": ">=18.3" }
+}
